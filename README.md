@@ -9,7 +9,7 @@ Parts of the code rely on functions from my other repo: [grads-library](https://
 ## Data
 
 Data can be downloaded from Zenodo:  
-[https://doi.org/10.5281/zenodo.18790998](https://doi.org/10.5281/zenodo.18790998)
+[https://doi.org/10.5281/zenodo.16792278](https://doi.org/10.5281/zenodo.16792278)
 
 ## Setup
 
